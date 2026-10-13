@@ -1,0 +1,675 @@
+subscription_id,customer_id,account_id,merchant_name,category,subcategory,amount,frequency_months,billing_day,start_date,end_date,status
+S00000001,C0000001,A00000001,Disney+,abonnements,streaming_video,13.99,1,6,2023-09-19,2025-01-12,churned
+S00000002,C0000001,A00000001,Geico Auto,transport,auto_insurance,51.95,1,23,2024-01-08,,active
+S00000003,C0000001,A00000001,State Farm,logement,home_insurance,26.79,1,13,2023-02-16,,active
+S00000004,C0000001,A00000001,Spotify,abonnements,streaming_music,11.99,1,15,2026-01-25,,active
+S00000005,C0000001,A00000001,City Water Dept,energie,water,92.98,3,13,2023-05-19,,active
+S00000006,C0000001,A00000001,National Grid,energie,gas,36.98,1,28,2023-03-15,,active
+S00000007,C0000001,A00000001,Xfinity,telecom,internet_fixe,44.59,1,19,2022-12-16,2023-10-10,churned
+S00000008,C0000001,A00000001,AT&T,telecom,mobile,86.53,1,6,2025-03-27,,active
+S00000009,C0000002,A00000005,T-Mobile,telecom,mobile,74.56,1,25,2024-09-14,,active
+S00000010,C0000002,A00000005,Xfinity,telecom,internet_fixe,57.87,1,16,2025-07-06,,active
+S00000011,C0000002,A00000005,Geico Auto,transport,auto_insurance,96.97,1,19,2023-02-08,2026-06-16,churned
+S00000012,C0000002,A00000005,State Farm,logement,home_insurance,38.05,1,16,2023-09-23,,active
+S00000013,C0000002,A00000005,Verizon,telecom,mobile,75.12,1,8,2025-09-15,,active
+S00000014,C0000002,A00000005,Blue Cross,sante,health_insurance,72.0,1,28,2023-01-12,,active
+S00000015,C0000002,A00000005,National Grid,energie,gas,34.75,1,27,2022-11-21,,active
+S00000016,C0000002,A00000005,NYTimes,abonnements,news,16.01,1,28,2025-05-30,,active
+S00000017,C0000002,A00000005,Netflix,abonnements,streaming_video,16.37,1,17,2024-10-01,,active
+S00000018,C0000002,A00000005,Amazon Prime,abonnements,streaming_video,14.99,1,20,2026-04-08,,active
+S00000019,C0000003,A00000010,T-Mobile,telecom,mobile,54.03,1,16,2023-11-28,,active
+S00000020,C0000003,A00000010,City Water Dept,energie,water,47.81,3,26,2025-07-03,,active
+S00000021,C0000003,A00000010,Verizon,telecom,mobile,85.74,1,2,2025-11-25,,active
+S00000022,C0000003,A00000010,ConEdison,energie,electricity,111.67,1,17,2022-12-23,2024-06-11,churned
+S00000023,C0000004,A00000011,ConEdison,energie,electricity,97.39,1,4,2025-04-01,,active
+S00000024,C0000004,A00000011,City Water Dept,energie,water,92.61,3,8,2026-02-22,,active
+S00000025,C0000004,A00000011,State Farm,logement,home_insurance,30.12,1,4,2025-10-12,,active
+S00000026,C0000004,A00000011,Amazon Prime,abonnements,streaming_video,14.99,1,3,2025-08-24,2026-02-22,churned
+S00000027,C0000004,A00000011,Netflix,abonnements,streaming_video,14.01,1,11,2023-03-14,2024-03-09,churned
+S00000028,C0000004,A00000011,Geico Auto,transport,auto_insurance,96.64,1,26,2025-08-14,2026-03-11,churned
+S00000029,C0000004,A00000011,Verizon,telecom,mobile,81.28,1,25,2023-11-11,,active
+S00000030,C0000005,A00000015,Disney+,abonnements,streaming_video,13.99,1,16,2024-04-01,,active
+S00000031,C0000005,A00000015,Blue Cross,sante,health_insurance,127.34,1,6,2023-09-04,,active
+S00000032,C0000005,A00000017,Adobe,professionnel,software,59.99,1,11,2025-07-29,2026-04-01,churned
+S00000033,C0000005,A00000015,Geico Auto,transport,auto_insurance,104.98,1,24,2024-03-17,,active
+S00000034,C0000005,A00000015,State Farm,logement,home_insurance,30.01,1,14,2023-07-24,,active
+S00000035,C0000005,A00000015,Spotify,abonnements,streaming_music,11.99,1,17,2024-01-23,2025-01-08,churned
+S00000036,C0000005,A00000015,ConEdison,energie,electricity,113.43,1,1,2023-08-05,,active
+S00000037,C0000005,A00000015,Netflix,abonnements,streaming_video,15.47,1,26,2024-12-23,,active
+S00000038,C0000005,A00000017,Google Workspace,professionnel,software,12.0,1,10,2024-08-07,,active
+S00000039,C0000005,A00000015,AT&T,telecom,mobile,93.86,1,27,2023-08-25,,active
+S00000040,C0000005,A00000015,City Water Dept,energie,water,36.48,3,15,2026-07-07,,active
+S00000041,C0000006,A00000018,Adobe,professionnel,software,59.99,1,27,2026-05-20,,active
+S00000042,C0000006,A00000018,Xfinity,telecom,internet_fixe,106.5,1,16,2024-06-28,2025-08-10,churned
+S00000043,C0000006,A00000018,National Grid,energie,gas,84.29,1,14,2025-03-11,2026-07-09,churned
+S00000044,C0000006,A00000018,Spotify,abonnements,streaming_music,11.99,1,18,2023-06-20,,active
+S00000045,C0000006,A00000018,Verizon,telecom,mobile,76.16,1,4,2024-08-22,2025-07-09,churned
+S00000046,C0000006,A00000018,State Farm,logement,home_insurance,47.83,1,19,2023-08-08,2024-12-08,churned
+S00000047,C0000006,A00000018,Amazon Prime,abonnements,streaming_video,14.99,1,18,2024-02-03,,active
+S00000048,C0000007,A00000019,Geico Auto,transport,auto_insurance,77.41,1,2,2023-02-03,,active
+S00000049,C0000007,A00000019,Spotify,abonnements,streaming_music,11.99,1,19,2025-12-03,,active
+S00000050,C0000008,A00000021,City Water Dept,energie,water,38.54,3,21,2023-04-22,,active
+S00000051,C0000008,A00000021,Verizon,telecom,mobile,75.33,1,6,2024-11-25,,active
+S00000052,C0000008,A00000021,Amazon Prime,abonnements,streaming_video,14.99,1,28,2024-10-08,,active
+S00000053,C0000008,A00000021,ConEdison,energie,electricity,125.18,1,7,2026-07-08,,active
+S00000054,C0000008,A00000021,AT&T,telecom,mobile,61.42,1,15,2024-01-18,,active
+S00000055,C0000009,A00000024,Blue Cross,sante,health_insurance,192.29,1,10,2026-01-15,2026-07-27,churned
+S00000056,C0000009,A00000024,Xfinity,telecom,internet_fixe,73.58,1,10,2024-11-08,,active
+S00000057,C0000009,A00000024,ConEdison,energie,electricity,64.41,1,26,2025-02-28,,active
+S00000058,C0000009,A00000024,T-Mobile,telecom,mobile,63.87,1,22,2022-12-12,,active
+S00000059,C0000009,A00000024,AT&T,telecom,mobile,86.34,1,1,2025-08-22,,active
+S00000060,C0000010,A00000028,Disney+,abonnements,streaming_video,13.99,1,7,2024-11-26,2025-12-27,churned
+S00000061,C0000010,A00000028,Netflix,abonnements,streaming_video,14.18,1,28,2025-12-17,,active
+S00000062,C0000010,A00000028,Blue Cross,sante,health_insurance,280.12,1,23,2023-04-25,,active
+S00000063,C0000010,A00000028,Spotify,abonnements,streaming_music,11.99,1,14,2026-08-15,,active
+S00000064,C0000010,A00000028,AT&T,telecom,mobile,86.72,1,22,2023-11-20,,active
+S00000065,C0000010,A00000028,Planet Fitness,abonnements,gym,26.02,1,28,2024-12-21,,active
+S00000066,C0000010,A00000028,ConEdison,energie,electricity,216.0,1,5,2025-12-12,,active
+S00000067,C0000010,A00000028,Xfinity,telecom,internet_fixe,83.67,1,25,2025-03-04,,active
+S00000068,C0000011,A00000032,Verizon,telecom,mobile,81.42,1,18,2024-10-16,,active
+S00000069,C0000011,A00000032,NYTimes,abonnements,news,17.91,1,12,2024-02-06,,active
+S00000070,C0000011,A00000032,T-Mobile,telecom,mobile,53.45,1,11,2023-12-25,,active
+S00000071,C0000011,A00000032,Amazon Prime,abonnements,streaming_video,14.99,1,19,2025-02-01,,active
+S00000072,C0000011,A00000032,State Farm,logement,home_insurance,36.38,1,15,2023-04-16,,active
+S00000073,C0000011,A00000032,ConEdison,energie,electricity,103.44,1,16,2023-04-28,,active
+S00000074,C0000012,A00000036,Spotify,abonnements,streaming_music,11.99,1,3,2023-01-03,2025-06-09,churned
+S00000075,C0000012,A00000036,National Grid,energie,gas,110.42,1,10,2023-02-14,,active
+S00000076,C0000012,A00000036,ConEdison,energie,electricity,177.27,1,7,2023-09-27,,active
+S00000077,C0000012,A00000036,State Farm,logement,home_insurance,43.24,1,21,2026-05-26,,active
+S00000078,C0000012,A00000036,Xfinity,telecom,internet_fixe,70.44,1,14,2024-11-01,,active
+S00000079,C0000012,A00000036,Verizon,telecom,mobile,92.66,1,16,2022-11-15,,active
+S00000080,C0000012,A00000036,Amazon Prime,abonnements,streaming_video,14.99,1,25,2024-02-06,,active
+S00000081,C0000013,A00000040,Verizon,telecom,mobile,66.92,1,17,2025-03-14,2026-06-28,churned
+S00000082,C0000013,A00000040,Geico Auto,transport,auto_insurance,38.0,1,17,2025-09-23,,active
+S00000083,C0000013,A00000040,State Farm,logement,home_insurance,31.85,1,15,2025-11-14,2026-07-18,churned
+S00000084,C0000013,A00000040,Netflix,abonnements,streaming_video,14.22,1,4,2023-05-12,,active
+S00000085,C0000013,A00000040,T-Mobile,telecom,mobile,53.36,1,27,2024-04-17,,active
+S00000086,C0000013,A00000040,Hulu,abonnements,streaming_video,17.99,1,15,2025-05-01,,active
+S00000087,C0000013,A00000040,Xfinity,telecom,internet_fixe,84.06,1,2,2025-11-20,,active
+S00000088,C0000013,A00000040,City Water Dept,energie,water,22.0,3,2,2024-06-16,2025-01-26,churned
+S00000089,C0000013,A00000040,AT&T,telecom,mobile,65.54,1,3,2023-09-24,,active
+S00000090,C0000013,A00000040,Blue Cross,sante,health_insurance,228.09,1,26,2023-10-01,,active
+S00000091,C0000013,A00000040,Spotify,abonnements,streaming_music,11.99,1,15,2024-03-15,,active
+S00000092,C0000014,A00000042,Xfinity,telecom,internet_fixe,86.44,1,17,2025-09-26,,active
+S00000093,C0000014,A00000042,City Water Dept,energie,water,99.0,3,15,2026-07-06,2027-01-02,churned
+S00000094,C0000014,A00000042,ConEdison,energie,electricity,56.82,1,13,2024-07-01,,active
+S00000095,C0000014,A00000042,NYTimes,abonnements,news,16.55,1,14,2024-08-02,,active
+S00000096,C0000014,A00000042,Amazon Prime,abonnements,streaming_video,14.99,1,1,2026-08-08,,active
+S00000097,C0000014,A00000042,Netflix,abonnements,streaming_video,15.17,1,23,2026-05-25,,active
+S00000098,C0000014,A00000042,T-Mobile,telecom,mobile,65.73,1,8,2025-05-31,2026-08-10,churned
+S00000099,C0000014,A00000042,Google Workspace,professionnel,software,12.0,1,26,2024-04-21,,active
+S00000100,C0000014,A00000042,Verizon,telecom,mobile,70.72,1,5,2024-10-29,,active
+S00000101,C0000014,A00000042,Blue Cross,sante,health_insurance,75.36,1,2,2024-06-06,,active
+S00000102,C0000014,A00000042,Planet Fitness,abonnements,gym,22.35,1,1,2025-06-24,,active
+S00000103,C0000015,A00000046,Blue Cross,sante,health_insurance,113.51,1,3,2026-07-01,2026-12-28,churned
+S00000104,C0000015,A00000046,Disney+,abonnements,streaming_video,13.99,1,10,2025-12-25,,active
+S00000105,C0000015,A00000046,Hulu,abonnements,streaming_video,17.99,1,23,2026-08-05,,active
+S00000106,C0000015,A00000046,Geico Auto,transport,auto_insurance,84.71,1,20,2024-10-01,,active
+S00000107,C0000015,A00000046,State Farm,logement,home_insurance,38.04,1,7,2024-12-24,,active
+S00000108,C0000015,A00000046,National Grid,energie,gas,132.85,1,4,2025-05-15,,active
+S00000109,C0000015,A00000046,Verizon,telecom,mobile,63.82,1,14,2023-08-10,2024-07-10,churned
+S00000110,C0000016,A00000050,ConEdison,energie,electricity,125.13,1,4,2022-12-25,,active
+S00000111,C0000016,A00000050,Verizon,telecom,mobile,93.15,1,12,2024-06-02,,active
+S00000112,C0000016,A00000050,Geico Auto,transport,auto_insurance,84.35,1,8,2024-11-22,,active
+S00000113,C0000016,A00000050,Blue Cross,sante,health_insurance,315.19,1,20,2024-04-02,,active
+S00000114,C0000016,A00000050,AT&T,telecom,mobile,70.98,1,25,2024-12-28,,active
+S00000115,C0000016,A00000050,Spotify,abonnements,streaming_music,11.99,1,8,2025-08-08,,active
+S00000116,C0000016,A00000050,T-Mobile,telecom,mobile,71.88,1,23,2025-06-25,,active
+S00000117,C0000016,A00000050,Disney+,abonnements,streaming_video,13.99,1,14,2024-07-03,,active
+S00000118,C0000016,A00000050,Xfinity,telecom,internet_fixe,80.06,1,22,2025-11-15,,active
+S00000119,C0000017,A00000053,Planet Fitness,abonnements,gym,26.94,1,28,2025-11-11,2026-07-20,churned
+S00000120,C0000017,A00000053,Verizon,telecom,mobile,82.12,1,4,2023-01-02,,active
+S00000121,C0000017,A00000053,ConEdison,energie,electricity,59.34,1,28,2023-12-25,2025-07-10,churned
+S00000122,C0000017,A00000053,AT&T,telecom,mobile,45.71,1,25,2025-02-12,,active
+S00000123,C0000017,A00000053,Amazon Prime,abonnements,streaming_video,14.99,1,2,2025-01-04,2026-06-12,churned
+S00000124,C0000017,A00000053,Xfinity,telecom,internet_fixe,60.52,1,24,2023-12-10,,active
+S00000125,C0000017,A00000053,National Grid,energie,gas,121.19,1,21,2026-03-17,,active
+S00000126,C0000017,A00000053,City Water Dept,energie,water,22.0,3,28,2023-07-09,,active
+S00000127,C0000017,A00000053,Geico Auto,transport,auto_insurance,69.9,1,18,2023-04-16,,active
+S00000128,C0000018,A00000057,Geico Auto,transport,auto_insurance,122.75,1,21,2023-07-21,,active
+S00000129,C0000018,A00000057,City Water Dept,energie,water,23.44,3,1,2024-05-04,,active
+S00000130,C0000018,A00000057,Verizon,telecom,mobile,67.6,1,8,2023-07-11,2025-12-26,churned
+S00000131,C0000018,A00000057,Blue Cross,sante,health_insurance,123.95,1,12,2024-08-22,,active
+S00000132,C0000018,A00000057,Netflix,abonnements,streaming_video,15.39,1,21,2026-07-22,,active
+S00000133,C0000018,A00000057,AT&T,telecom,mobile,53.06,1,3,2025-01-19,,active
+S00000134,C0000018,A00000057,Spotify,abonnements,streaming_music,11.99,1,17,2026-04-13,,active
+S00000135,C0000019,A00000059,National Grid,energie,gas,73.18,1,2,2026-02-17,,active
+S00000136,C0000019,A00000059,Xfinity,telecom,internet_fixe,111.26,1,28,2024-12-09,,active
+S00000137,C0000019,A00000059,State Farm,logement,home_insurance,47.37,1,14,2023-02-07,2026-02-25,churned
+S00000138,C0000019,A00000059,Amazon Prime,abonnements,streaming_video,14.99,1,8,2026-01-05,2026-08-23,churned
+S00000139,C0000019,A00000059,Verizon,telecom,mobile,66.37,1,23,2023-02-01,2025-10-10,churned
+S00000140,C0000020,A00000062,Hulu,abonnements,streaming_video,17.99,1,4,2025-02-17,,active
+S00000141,C0000020,A00000062,Xfinity,telecom,internet_fixe,77.29,1,14,2026-01-04,,active
+S00000142,C0000020,A00000062,Spotify,abonnements,streaming_music,11.99,1,27,2024-12-15,,active
+S00000143,C0000020,A00000062,Verizon,telecom,mobile,80.69,1,8,2026-08-11,,active
+S00000144,C0000020,A00000062,Geico Auto,transport,auto_insurance,96.53,1,17,2025-05-27,2026-05-21,churned
+S00000145,C0000020,A00000062,Netflix,abonnements,streaming_video,17.27,1,6,2023-07-29,,active
+S00000146,C0000020,A00000062,AT&T,telecom,mobile,64.56,1,1,2025-06-27,,active
+S00000147,C0000021,A00000065,Verizon,telecom,mobile,87.51,1,28,2023-07-27,,active
+S00000148,C0000021,A00000065,National Grid,energie,gas,62.22,1,3,2025-07-01,,active
+S00000149,C0000021,A00000065,T-Mobile,telecom,mobile,62.89,1,19,2023-03-15,,active
+S00000150,C0000021,A00000065,State Farm,logement,home_insurance,24.67,1,6,2024-09-06,,active
+S00000151,C0000021,A00000065,Xfinity,telecom,internet_fixe,79.83,1,26,2026-07-21,,active
+S00000152,C0000021,A00000065,Amazon Prime,abonnements,streaming_video,14.99,1,20,2025-02-27,,active
+S00000153,C0000021,A00000065,Blue Cross,sante,health_insurance,72.0,1,17,2024-06-14,2025-05-01,churned
+S00000154,C0000021,A00000065,Geico Auto,transport,auto_insurance,109.32,1,27,2025-03-18,,active
+S00000155,C0000022,A00000069,Verizon,telecom,mobile,101.21,1,22,2023-06-06,,active
+S00000156,C0000022,A00000069,AT&T,telecom,mobile,59.28,1,18,2023-02-25,2024-04-02,churned
+S00000157,C0000022,A00000069,ConEdison,energie,electricity,216.0,1,8,2025-01-22,,active
+S00000158,C0000022,A00000069,Disney+,abonnements,streaming_video,13.99,1,28,2025-11-19,,active
+S00000159,C0000022,A00000069,State Farm,logement,home_insurance,36.27,1,19,2023-06-12,,active
+S00000160,C0000023,A00000073,Xfinity,telecom,internet_fixe,64.98,1,12,2025-03-18,,active
+S00000161,C0000023,A00000073,Spotify,abonnements,streaming_music,11.99,1,24,2023-12-12,,active
+S00000162,C0000023,A00000073,Verizon,telecom,mobile,78.45,1,2,2023-04-26,,active
+S00000163,C0000023,A00000073,National Grid,energie,gas,78.12,1,7,2023-07-27,,active
+S00000164,C0000024,A00000075,NYTimes,abonnements,news,16.26,1,18,2026-02-05,,active
+S00000165,C0000024,A00000075,Blue Cross,sante,health_insurance,157.95,1,26,2024-02-19,,active
+S00000166,C0000024,A00000075,AT&T,telecom,mobile,75.61,1,23,2024-04-04,,active
+S00000167,C0000024,A00000075,Adobe,professionnel,software,59.99,1,21,2023-07-11,2025-11-18,churned
+S00000168,C0000024,A00000075,Verizon,telecom,mobile,91.92,1,20,2023-06-06,,active
+S00000169,C0000025,A00000079,AT&T,telecom,mobile,72.93,1,6,2024-01-14,2026-08-14,churned
+S00000170,C0000025,A00000079,Amazon Prime,abonnements,streaming_video,14.99,1,20,2024-01-26,2024-12-25,churned
+S00000171,C0000025,A00000079,City Water Dept,energie,water,57.27,3,10,2026-04-03,,active
+S00000172,C0000025,A00000079,Spotify,abonnements,streaming_music,11.99,1,5,2024-06-20,,active
+S00000173,C0000025,A00000079,ConEdison,energie,electricity,120.47,1,20,2025-08-10,,active
+S00000174,C0000025,A00000079,Netflix,abonnements,streaming_video,14.92,1,14,2024-08-13,,active
+S00000175,C0000025,A00000079,Xfinity,telecom,internet_fixe,84.21,1,21,2023-07-19,,active
+S00000176,C0000026,A00000084,Hulu,abonnements,streaming_video,17.99,1,20,2025-10-06,,active
+S00000177,C0000026,A00000084,T-Mobile,telecom,mobile,73.45,1,22,2022-12-24,,active
+S00000178,C0000026,A00000084,Geico Auto,transport,auto_insurance,60.93,1,16,2022-12-06,,active
+S00000179,C0000026,A00000084,City Water Dept,energie,water,38.17,3,8,2023-08-12,,active
+S00000180,C0000026,A00000084,Spotify,abonnements,streaming_music,11.99,1,24,2025-01-22,,active
+S00000181,C0000026,A00000084,Verizon,telecom,mobile,79.64,1,18,2022-10-17,,active
+S00000182,C0000026,A00000084,ConEdison,energie,electricity,100.4,1,1,2024-07-18,,active
+S00000183,C0000028,A00000087,Xbox Game Pass,abonnements,gaming,16.99,1,24,2024-11-07,,active
+S00000184,C0000028,A00000087,National Grid,energie,gas,59.0,1,12,2023-12-16,,active
+S00000185,C0000028,A00000087,Geico Auto,transport,auto_insurance,88.62,1,26,2024-07-18,2025-05-19,churned
+S00000186,C0000028,A00000087,Verizon,telecom,mobile,84.38,1,4,2022-12-11,,active
+S00000187,C0000028,A00000087,AT&T,telecom,mobile,70.32,1,19,2023-05-26,,active
+S00000188,C0000028,A00000087,Netflix,abonnements,streaming_video,13.97,1,16,2023-12-21,,active
+S00000189,C0000028,A00000087,Spotify,abonnements,streaming_music,11.99,1,25,2022-10-31,,active
+S00000190,C0000029,A00000088,T-Mobile,telecom,mobile,62.37,1,26,2025-10-11,,active
+S00000191,C0000029,A00000088,Xfinity,telecom,internet_fixe,70.1,1,26,2023-02-20,,active
+S00000192,C0000029,A00000088,Apple iCloud+,abonnements,cloud,2.99,1,6,2024-03-22,2025-04-09,churned
+S00000193,C0000029,A00000088,Spotify,abonnements,streaming_music,11.99,1,6,2025-07-16,,active
+S00000194,C0000029,A00000088,Amazon Prime,abonnements,streaming_video,14.99,1,22,2023-02-27,,active
+S00000195,C0000029,A00000088,Hulu,abonnements,streaming_video,17.99,1,27,2026-05-04,,active
+S00000196,C0000030,A00000093,Xfinity,telecom,internet_fixe,74.78,1,18,2025-02-11,2025-09-17,churned
+S00000197,C0000030,A00000093,State Farm,logement,home_insurance,34.77,1,10,2026-04-01,2026-09-28,churned
+S00000198,C0000030,A00000093,T-Mobile,telecom,mobile,58.13,1,10,2023-11-26,,active
+S00000199,C0000030,A00000093,Geico Auto,transport,auto_insurance,90.72,1,3,2023-01-09,,active
+S00000200,C0000030,A00000093,Planet Fitness,abonnements,gym,29.85,1,6,2025-12-11,,active
+S00000201,C0000030,A00000093,ConEdison,energie,electricity,145.77,1,24,2025-05-05,,active
+S00000202,C0000031,A00000095,T-Mobile,telecom,mobile,43.72,1,1,2023-06-27,,active
+S00000203,C0000031,A00000095,Blue Cross,sante,health_insurance,279.39,1,17,2024-05-14,,active
+S00000204,C0000031,A00000095,State Farm,logement,home_insurance,31.3,1,5,2026-01-17,,active
+S00000205,C0000031,A00000095,Apple iCloud+,abonnements,cloud,2.99,1,11,2025-11-21,,active
+S00000206,C0000031,A00000095,Amazon Prime,abonnements,streaming_video,14.99,1,24,2022-12-08,,active
+S00000207,C0000031,A00000095,ConEdison,energie,electricity,63.93,1,19,2024-01-27,,active
+S00000208,C0000031,A00000095,Xfinity,telecom,internet_fixe,87.54,1,22,2025-10-03,,active
+S00000209,C0000031,A00000095,AT&T,telecom,mobile,71.79,1,28,2024-08-26,,active
+S00000210,C0000031,A00000095,Verizon,telecom,mobile,73.1,1,8,2026-08-10,,active
+S00000211,C0000032,A00000099,Xfinity,telecom,internet_fixe,85.4,1,6,2023-10-26,,active
+S00000212,C0000032,A00000099,Verizon,telecom,mobile,57.41,1,22,2023-12-02,,active
+S00000213,C0000032,A00000099,Amazon Prime,abonnements,streaming_video,14.99,1,11,2025-08-21,,active
+S00000214,C0000032,A00000099,Spotify,abonnements,streaming_music,11.99,1,5,2024-11-18,,active
+S00000215,C0000032,A00000099,National Grid,energie,gas,92.25,1,24,2023-03-26,2026-03-17,churned
+S00000216,C0000032,A00000099,AT&T,telecom,mobile,43.6,1,4,2023-07-28,,active
+S00000217,C0000032,A00000099,Disney+,abonnements,streaming_video,13.99,1,23,2024-11-30,,active
+S00000218,C0000032,A00000099,ConEdison,energie,electricity,124.26,1,12,2025-08-07,,active
+S00000219,C0000032,A00000099,Netflix,abonnements,streaming_video,15.1,1,22,2026-05-17,,active
+S00000220,C0000032,A00000099,Apple iCloud+,abonnements,cloud,2.99,1,11,2025-02-05,,active
+S00000221,C0000032,A00000099,Childcare Center,famille,garde_enfant,439.81,1,6,2025-03-16,2026-10-14,active
+S00000222,C0000033,A00000104,Amazon Prime,abonnements,streaming_video,14.99,1,28,2025-02-21,,active
+S00000223,C0000033,A00000104,Planet Fitness,abonnements,gym,26.49,1,10,2025-12-03,2026-07-11,churned
+S00000224,C0000033,A00000104,NYTimes,abonnements,news,17.67,1,18,2024-01-02,,active
+S00000225,C0000033,A00000104,Netflix,abonnements,streaming_video,14.37,1,21,2025-10-17,,active
+S00000226,C0000033,A00000104,Verizon,telecom,mobile,98.4,1,14,2023-11-22,,active
+S00000227,C0000033,A00000104,Geico Auto,transport,auto_insurance,131.07,1,28,2024-11-16,,active
+S00000228,C0000033,A00000104,ConEdison,energie,electricity,147.12,1,12,2023-01-06,,active
+S00000229,C0000033,A00000104,City Water Dept,energie,water,59.88,3,25,2026-03-28,2026-09-24,churned
+S00000230,C0000033,A00000104,Apple iCloud+,abonnements,cloud,2.99,1,24,2026-06-18,,active
+S00000231,C0000034,A00000108,AT&T,telecom,mobile,85.76,1,18,2022-12-11,,active
+S00000232,C0000034,A00000108,Xfinity,telecom,internet_fixe,75.27,1,13,2023-11-02,,active
+S00000233,C0000034,A00000108,State Farm,logement,home_insurance,12.8,1,11,2026-04-03,,active
+S00000234,C0000034,A00000108,National Grid,energie,gas,47.44,1,25,2024-09-08,,active
+S00000235,C0000034,A00000108,Verizon,telecom,mobile,54.29,1,25,2023-10-05,,active
+S00000236,C0000034,A00000108,Spotify,abonnements,streaming_music,11.99,1,1,2024-10-11,,active
+S00000237,C0000034,A00000108,Disney+,abonnements,streaming_video,13.99,1,20,2023-07-28,,active
+S00000238,C0000034,A00000108,T-Mobile,telecom,mobile,59.36,1,3,2024-09-04,,active
+S00000239,C0000035,A00000112,AT&T,telecom,mobile,62.6,1,23,2024-02-17,,active
+S00000240,C0000035,A00000112,Verizon,telecom,mobile,86.75,1,24,2025-03-31,,active
+S00000241,C0000035,A00000112,Hulu,abonnements,streaming_video,17.99,1,10,2025-01-22,,active
+S00000242,C0000035,A00000112,Blue Cross,sante,health_insurance,216.32,1,22,2023-07-19,,active
+S00000243,C0000036,A00000115,City Water Dept,energie,water,69.6,3,14,2026-08-08,,active
+S00000244,C0000036,A00000115,Verizon,telecom,mobile,47.31,1,23,2025-10-28,,active
+S00000245,C0000036,A00000115,Spotify,abonnements,streaming_music,11.99,1,13,2023-10-13,,active
+S00000246,C0000037,A00000117,Disney+,abonnements,streaming_video,13.99,1,27,2025-02-10,,active
+S00000247,C0000037,A00000117,Verizon,telecom,mobile,76.7,1,21,2022-11-15,,active
+S00000248,C0000037,A00000117,State Farm,logement,home_insurance,41.67,1,21,2024-07-28,,active
+S00000249,C0000037,A00000117,AT&T,telecom,mobile,81.73,1,8,2024-12-25,,active
+S00000250,C0000038,A00000118,Disney+,abonnements,streaming_video,13.99,1,2,2023-11-18,,active
+S00000251,C0000038,A00000118,ConEdison,energie,electricity,146.11,1,11,2024-06-05,,active
+S00000252,C0000038,A00000118,Amazon Prime,abonnements,streaming_video,14.99,1,4,2025-01-16,,active
+S00000253,C0000038,A00000118,State Farm,logement,home_insurance,32.85,1,24,2022-10-23,,active
+S00000254,C0000039,A00000121,Hulu,abonnements,streaming_video,17.99,1,19,2025-03-30,,active
+S00000255,C0000039,A00000121,City Water Dept,energie,water,82.77,3,27,2023-08-13,,active
+S00000256,C0000039,A00000121,AT&T,telecom,mobile,59.98,1,9,2023-03-23,,active
+S00000257,C0000039,A00000121,Netflix,abonnements,streaming_video,14.36,1,7,2024-05-20,,active
+S00000258,C0000040,A00000124,Geico Auto,transport,auto_insurance,47.34,1,5,2025-09-01,,active
+S00000259,C0000040,A00000124,ConEdison,energie,electricity,127.5,1,21,2023-07-05,2026-01-02,churned
+S00000260,C0000040,A00000124,State Farm,logement,home_insurance,24.73,1,21,2023-02-23,,active
+S00000261,C0000040,A00000124,Verizon,telecom,mobile,91.78,1,20,2023-08-15,,active
+S00000262,C0000040,A00000124,Netflix,abonnements,streaming_video,15.06,1,12,2024-05-09,,active
+S00000263,C0000040,A00000124,City Water Dept,energie,water,99.0,3,26,2022-12-08,,active
+S00000264,C0000040,A00000124,Amazon Prime,abonnements,streaming_video,14.99,1,25,2023-04-08,,active
+S00000265,C0000040,A00000124,Xfinity,telecom,internet_fixe,82.8,1,24,2023-11-10,,active
+S00000266,C0000041,A00000128,Xfinity,telecom,internet_fixe,60.95,1,1,2025-04-22,,active
+S00000267,C0000041,A00000128,Netflix,abonnements,streaming_video,15.81,1,20,2024-02-02,,active
+S00000268,C0000041,A00000128,Geico Auto,transport,auto_insurance,92.49,1,28,2023-05-29,,active
+S00000269,C0000042,A00000130,ConEdison,energie,electricity,100.38,1,6,2023-09-12,,active
+S00000270,C0000042,A00000130,Verizon,telecom,mobile,71.72,1,12,2023-11-30,2025-02-25,churned
+S00000271,C0000042,A00000130,Netflix,abonnements,streaming_video,15.39,1,22,2024-10-15,,active
+S00000272,C0000042,A00000130,AT&T,telecom,mobile,87.69,1,1,2026-06-19,,active
+S00000273,C0000043,A00000133,City Water Dept,energie,water,61.0,3,10,2024-12-04,,active
+S00000274,C0000043,A00000133,Hulu,abonnements,streaming_video,17.99,1,14,2023-03-20,,active
+S00000275,C0000043,A00000133,Verizon,telecom,mobile,71.17,1,12,2025-06-08,,active
+S00000276,C0000043,A00000136,Google Workspace,professionnel,software,12.0,1,8,2024-01-21,2026-02-12,churned
+S00000277,C0000043,A00000133,Blue Cross,sante,health_insurance,208.07,1,15,2025-09-26,,active
+S00000278,C0000043,A00000133,Amazon Prime,abonnements,streaming_video,14.99,1,9,2024-05-07,,active
+S00000279,C0000043,A00000133,ConEdison,energie,electricity,134.37,1,8,2025-04-09,2026-06-08,churned
+S00000280,C0000043,A00000133,AT&T,telecom,mobile,83.84,1,12,2023-11-10,,active
+S00000281,C0000043,A00000133,Geico Auto,transport,auto_insurance,86.93,1,8,2023-11-10,,active
+S00000282,C0000043,A00000136,GitHub,professionnel,software,21.0,1,26,2026-04-03,,active
+S00000283,C0000043,A00000136,Adobe,professionnel,software,59.99,1,20,2026-06-10,,active
+S00000284,C0000043,A00000133,National Grid,energie,gas,122.11,1,10,2023-11-01,,active
+S00000285,C0000045,A00000139,Verizon,telecom,mobile,58.59,1,18,2023-02-06,,active
+S00000286,C0000045,A00000139,City Water Dept,energie,water,58.67,3,7,2025-07-03,,active
+S00000287,C0000045,A00000139,Amazon Prime,abonnements,streaming_video,14.99,1,26,2026-06-04,,active
+S00000288,C0000045,A00000139,ConEdison,energie,electricity,152.62,1,21,2023-03-12,,active
+S00000289,C0000045,A00000139,AT&T,telecom,mobile,75.63,1,11,2026-07-06,,active
+S00000290,C0000045,A00000139,National Grid,energie,gas,49.97,1,5,2025-09-03,,active
+S00000291,C0000045,A00000139,Geico Auto,transport,auto_insurance,107.7,1,22,2024-12-06,,active
+S00000292,C0000046,A00000143,Geico Auto,transport,auto_insurance,158.67,1,27,2025-03-23,,active
+S00000293,C0000046,A00000143,State Farm,logement,home_insurance,21.88,1,23,2023-06-30,,active
+S00000294,C0000046,A00000143,Verizon,telecom,mobile,78.45,1,13,2026-02-08,,active
+S00000295,C0000046,A00000143,Netflix,abonnements,streaming_video,15.82,1,6,2025-02-27,,active
+S00000296,C0000047,A00000146,Xfinity,telecom,internet_fixe,71.56,1,8,2024-04-14,,active
+S00000297,C0000047,A00000146,State Farm,logement,home_insurance,24.83,1,8,2023-07-01,,active
+S00000298,C0000047,A00000146,Geico Auto,transport,auto_insurance,141.66,1,24,2023-12-26,,active
+S00000299,C0000047,A00000146,Amazon Prime,abonnements,streaming_video,14.99,1,25,2026-08-14,,active
+S00000300,C0000047,A00000146,Netflix,abonnements,streaming_video,15.1,1,4,2025-04-22,2026-01-17,churned
+S00000301,C0000047,A00000146,Blue Cross,sante,health_insurance,206.72,1,19,2026-06-09,,active
+S00000302,C0000048,A00000147,Spotify,abonnements,streaming_music,11.99,1,20,2026-02-02,,active
+S00000303,C0000048,A00000147,National Grid,energie,gas,72.3,1,18,2025-01-21,,active
+S00000304,C0000048,A00000147,ConEdison,energie,electricity,128.75,1,28,2025-03-30,,active
+S00000305,C0000048,A00000147,Amazon Prime,abonnements,streaming_video,14.99,1,7,2023-01-12,2024-02-22,churned
+S00000306,C0000048,A00000147,City Water Dept,energie,water,74.24,3,18,2023-03-14,,active
+S00000307,C0000048,A00000147,State Farm,logement,home_insurance,45.39,1,16,2024-11-20,,active
+S00000308,C0000048,A00000147,Verizon,telecom,mobile,63.91,1,3,2023-07-10,,active
+S00000309,C0000048,A00000147,Netflix,abonnements,streaming_video,16.81,1,11,2023-10-18,,active
+S00000310,C0000049,A00000149,National Grid,energie,gas,32.0,1,16,2024-02-22,,active
+S00000311,C0000049,A00000149,Spotify,abonnements,streaming_music,11.99,1,14,2025-03-06,,active
+S00000312,C0000049,A00000149,Netflix,abonnements,streaming_video,14.89,1,4,2022-11-23,,active
+S00000313,C0000049,A00000149,Geico Auto,transport,auto_insurance,111.29,1,20,2024-10-31,2025-06-12,churned
+S00000314,C0000050,A00000151,City Water Dept,energie,water,69.72,3,4,2026-01-11,,active
+S00000315,C0000050,A00000151,State Farm,logement,home_insurance,31.18,1,25,2024-07-02,2025-09-10,churned
+S00000316,C0000050,A00000151,Spotify,abonnements,streaming_music,11.99,1,28,2026-07-20,,active
+S00000317,C0000050,A00000151,Netflix,abonnements,streaming_video,15.46,1,6,2023-05-23,2025-06-10,churned
+S00000318,C0000050,A00000151,ConEdison,energie,electricity,104.87,1,1,2026-03-30,2026-09-26,churned
+S00000319,C0000050,A00000151,Blue Cross,sante,health_insurance,72.0,1,23,2026-07-10,,active
+S00000320,C0000050,A00000151,Disney+,abonnements,streaming_video,13.99,1,23,2024-01-04,2025-04-26,churned
+S00000321,C0000051,A00000152,Disney+,abonnements,streaming_video,13.99,1,19,2026-07-23,,active
+S00000322,C0000051,A00000152,AT&T,telecom,mobile,95.03,1,20,2026-04-23,,active
+S00000323,C0000051,A00000152,Netflix,abonnements,streaming_video,15.15,1,19,2024-08-25,,active
+S00000324,C0000051,A00000152,ConEdison,energie,electricity,136.24,1,12,2025-08-16,,active
+S00000325,C0000051,A00000152,Geico Auto,transport,auto_insurance,63.94,1,14,2024-02-18,2024-11-11,churned
+S00000326,C0000051,A00000152,Blue Cross,sante,health_insurance,225.17,1,8,2024-11-17,,active
+S00000327,C0000051,A00000152,Amazon Prime,abonnements,streaming_video,14.99,1,5,2023-07-04,,active
+S00000328,C0000051,A00000152,City Water Dept,energie,water,52.2,3,19,2024-02-13,2026-08-31,churned
+S00000329,C0000051,A00000152,Childcare Center,famille,garde_enfant,556.15,1,5,2024-04-30,2026-10-14,active
+S00000330,C0000052,A00000156,Netflix,abonnements,streaming_video,13.44,1,4,2024-11-04,2026-05-16,churned
+S00000331,C0000052,A00000156,Spotify,abonnements,streaming_music,11.99,1,14,2023-03-14,,active
+S00000332,C0000052,A00000156,ConEdison,energie,electricity,142.94,1,17,2022-12-08,,active
+S00000333,C0000052,A00000156,National Grid,energie,gas,103.08,1,6,2023-12-30,,active
+S00000334,C0000052,A00000156,Hulu,abonnements,streaming_video,17.99,1,1,2026-07-21,,active
+S00000335,C0000052,A00000156,State Farm,logement,home_insurance,45.3,1,2,2025-08-22,,active
+S00000336,C0000052,A00000156,AT&T,telecom,mobile,72.57,1,13,2024-10-13,,active
+S00000337,C0000052,A00000156,Adobe,professionnel,software,59.99,1,24,2023-09-02,,active
+S00000338,C0000052,A00000156,Verizon,telecom,mobile,83.15,1,15,2023-07-18,,active
+S00000339,C0000053,A00000159,Disney+,abonnements,streaming_video,13.99,1,18,2024-02-03,,active
+S00000340,C0000053,A00000159,Netflix,abonnements,streaming_video,17.82,1,5,2024-11-21,,active
+S00000341,C0000053,A00000159,State Farm,logement,home_insurance,36.58,1,24,2024-01-18,,active
+S00000342,C0000053,A00000159,Amazon Prime,abonnements,streaming_video,14.99,1,25,2023-09-08,,active
+S00000343,C0000053,A00000159,Verizon,telecom,mobile,79.26,1,23,2024-09-21,,active
+S00000344,C0000053,A00000159,Geico Auto,transport,auto_insurance,137.3,1,25,2025-10-30,,active
+S00000345,C0000053,A00000159,Xfinity,telecom,internet_fixe,77.12,1,6,2024-08-06,,active
+S00000346,C0000054,A00000162,Blue Cross,sante,health_insurance,129.08,1,6,2025-05-01,,active
+S00000347,C0000054,A00000162,Spotify,abonnements,streaming_music,11.99,1,5,2025-10-30,,active
+S00000348,C0000054,A00000162,Verizon,telecom,mobile,76.72,1,25,2024-10-13,,active
+S00000349,C0000054,A00000162,State Farm,logement,home_insurance,33.12,1,1,2024-03-25,,active
+S00000350,C0000054,A00000162,Apple iCloud+,abonnements,cloud,2.99,1,1,2024-04-09,,active
+S00000351,C0000054,A00000162,Geico Auto,transport,auto_insurance,171.0,1,10,2026-04-04,,active
+S00000352,C0000054,A00000162,T-Mobile,telecom,mobile,54.41,1,10,2025-10-10,,active
+S00000353,C0000055,A00000164,Amazon Prime,abonnements,streaming_video,14.99,1,12,2022-12-14,2026-04-24,churned
+S00000354,C0000055,A00000164,Spotify,abonnements,streaming_music,11.99,1,14,2023-10-25,,active
+S00000355,C0000055,A00000164,AT&T,telecom,mobile,92.03,1,11,2025-02-09,2026-08-11,churned
+S00000356,C0000055,A00000164,State Farm,logement,home_insurance,19.96,1,16,2023-06-14,,active
+S00000357,C0000055,A00000164,T-Mobile,telecom,mobile,67.54,1,7,2023-10-07,,active
+S00000358,C0000055,A00000164,Geico Auto,transport,auto_insurance,77.45,1,25,2026-02-09,,active
+S00000359,C0000055,A00000164,Blue Cross,sante,health_insurance,134.54,1,23,2023-02-03,,active
+S00000360,C0000056,A00000167,Netflix,abonnements,streaming_video,15.73,1,14,2024-12-27,2026-05-25,churned
+S00000361,C0000056,A00000167,State Farm,logement,home_insurance,17.52,1,5,2025-11-30,,active
+S00000362,C0000056,A00000167,AT&T,telecom,mobile,72.43,1,1,2024-07-20,,active
+S00000363,C0000056,A00000167,Spotify,abonnements,streaming_music,11.99,1,25,2026-05-03,2026-10-30,churned
+S00000364,C0000056,A00000167,NYTimes,abonnements,news,17.79,1,12,2022-12-20,,active
+S00000365,C0000057,A00000169,National Grid,energie,gas,89.4,1,22,2023-11-10,,active
+S00000366,C0000057,A00000169,Spotify,abonnements,streaming_music,11.99,1,26,2025-08-09,,active
+S00000367,C0000057,A00000169,T-Mobile,telecom,mobile,54.22,1,14,2025-06-13,,active
+S00000368,C0000057,A00000169,Amazon Prime,abonnements,streaming_video,14.99,1,5,2024-11-16,,active
+S00000369,C0000057,A00000169,City Water Dept,energie,water,76.28,3,14,2024-07-04,,active
+S00000370,C0000057,A00000169,Verizon,telecom,mobile,65.12,1,5,2026-06-12,,active
+S00000371,C0000057,A00000169,Planet Fitness,abonnements,gym,22.99,1,13,2023-02-14,,active
+S00000372,C0000057,A00000169,ConEdison,energie,electricity,213.14,1,12,2024-08-17,,active
+S00000373,C0000057,A00000169,AT&T,telecom,mobile,70.79,1,19,2025-12-05,,active
+S00000374,C0000057,A00000169,NYTimes,abonnements,news,18.65,1,3,2024-03-28,,active
+S00000375,C0000058,A00000173,ConEdison,energie,electricity,137.26,1,9,2025-10-05,2026-04-12,churned
+S00000376,C0000058,A00000173,Verizon,telecom,mobile,68.39,1,8,2025-09-04,,active
+S00000377,C0000058,A00000173,Blue Cross,sante,health_insurance,98.39,1,20,2024-06-20,,active
+S00000378,C0000059,A00000177,AT&T,telecom,mobile,58.67,1,3,2025-08-30,,active
+S00000379,C0000059,A00000177,Spotify,abonnements,streaming_music,11.99,1,14,2024-10-14,,active
+S00000380,C0000059,A00000177,Geico Auto,transport,auto_insurance,129.38,1,17,2026-04-22,,active
+S00000381,C0000059,A00000177,Disney+,abonnements,streaming_video,13.99,1,18,2024-12-17,2025-08-01,churned
+S00000382,C0000059,A00000177,State Farm,logement,home_insurance,45.27,1,26,2023-11-03,2026-01-06,churned
+S00000383,C0000059,A00000177,T-Mobile,telecom,mobile,62.6,1,21,2023-08-22,,active
+S00000384,C0000060,A00000180,Verizon,telecom,mobile,79.54,1,6,2022-11-28,,active
+S00000385,C0000060,A00000180,Blue Cross,sante,health_insurance,191.11,1,7,2024-08-27,,active
+S00000386,C0000060,A00000180,Disney+,abonnements,streaming_video,13.99,1,24,2023-07-05,,active
+S00000387,C0000060,A00000180,State Farm,logement,home_insurance,22.62,1,8,2025-05-08,,active
+S00000388,C0000060,A00000180,Netflix,abonnements,streaming_video,15.83,1,22,2024-02-13,,active
+S00000389,C0000060,A00000180,City Water Dept,energie,water,45.76,3,12,2024-08-22,,active
+S00000390,C0000060,A00000180,National Grid,energie,gas,90.71,1,14,2025-02-07,,active
+S00000391,C0000060,A00000180,T-Mobile,telecom,mobile,76.85,1,3,2023-08-11,,active
+S00000392,C0000060,A00000180,Hulu,abonnements,streaming_video,17.99,1,16,2023-07-23,,active
+S00000393,C0000060,A00000180,Amazon Prime,abonnements,streaming_video,14.99,1,15,2023-09-17,,active
+S00000394,C0000061,A00000184,Spotify,abonnements,streaming_music,11.99,1,28,2026-05-01,,active
+S00000395,C0000061,A00000184,ConEdison,energie,electricity,128.76,1,20,2026-04-29,,active
+S00000396,C0000061,A00000184,GitHub,professionnel,software,21.0,1,13,2024-08-07,,active
+S00000397,C0000061,A00000184,Xfinity,telecom,internet_fixe,49.62,1,9,2026-02-10,,active
+S00000398,C0000061,A00000184,Amazon Prime,abonnements,streaming_video,14.99,1,8,2024-11-05,,active
+S00000399,C0000061,A00000184,T-Mobile,telecom,mobile,71.94,1,20,2023-07-25,,active
+S00000400,C0000062,A00000186,Netflix,abonnements,streaming_video,15.97,1,28,2023-02-15,,active
+S00000401,C0000062,A00000186,State Farm,logement,home_insurance,50.94,1,20,2026-03-18,,active
+S00000402,C0000062,A00000186,Geico Auto,transport,auto_insurance,73.42,1,20,2025-12-24,2026-08-27,churned
+S00000403,C0000062,A00000186,Amazon Prime,abonnements,streaming_video,14.99,1,7,2023-06-08,,active
+S00000404,C0000062,A00000186,ConEdison,energie,electricity,62.58,1,10,2023-05-27,,active
+S00000405,C0000062,A00000186,Verizon,telecom,mobile,79.94,1,11,2023-11-01,,active
+S00000406,C0000062,A00000186,NYTimes,abonnements,news,18.78,1,20,2026-04-29,,active
+S00000407,C0000062,A00000186,Disney+,abonnements,streaming_video,13.99,1,15,2023-12-29,,active
+S00000408,C0000062,A00000186,Apple iCloud+,abonnements,cloud,2.99,1,25,2024-11-18,,active
+S00000409,C0000062,A00000186,City Water Dept,energie,water,72.19,3,19,2023-01-09,,active
+S00000410,C0000062,A00000186,Xfinity,telecom,internet_fixe,81.08,1,12,2024-03-03,2026-06-11,churned
+S00000411,C0000062,A00000186,T-Mobile,telecom,mobile,72.6,1,1,2025-09-12,,active
+S00000412,C0000063,A00000191,Geico Auto,transport,auto_insurance,82.24,1,19,2024-11-20,,active
+S00000413,C0000063,A00000191,Netflix,abonnements,streaming_video,16.37,1,23,2025-11-09,,active
+S00000414,C0000063,A00000191,Blue Cross,sante,health_insurance,239.25,1,24,2024-11-29,,active
+S00000415,C0000063,A00000191,State Farm,logement,home_insurance,22.34,1,2,2025-08-20,,active
+S00000416,C0000063,A00000191,Xfinity,telecom,internet_fixe,63.55,1,25,2025-07-20,,active
+S00000417,C0000063,A00000191,ConEdison,energie,electricity,103.52,1,13,2023-11-15,,active
+S00000418,C0000064,A00000194,Geico Auto,transport,auto_insurance,134.74,1,6,2024-08-20,,active
+S00000419,C0000064,A00000194,AT&T,telecom,mobile,73.89,1,15,2024-06-24,2026-01-30,churned
+S00000420,C0000065,A00000195,Blue Cross,sante,health_insurance,276.18,1,20,2024-07-03,2025-11-18,churned
+S00000421,C0000065,A00000195,Netflix,abonnements,streaming_video,16.65,1,10,2023-02-20,,active
+S00000422,C0000065,A00000195,AT&T,telecom,mobile,66.02,1,15,2026-03-21,,active
+S00000423,C0000065,A00000195,Geico Auto,transport,auto_insurance,82.21,1,20,2023-06-27,,active
+S00000424,C0000065,A00000195,Spotify,abonnements,streaming_music,11.99,1,21,2025-12-17,,active
+S00000425,C0000066,A00000196,T-Mobile,telecom,mobile,40.98,1,7,2025-03-20,,active
+S00000426,C0000066,A00000196,Apple iCloud+,abonnements,cloud,2.99,1,2,2026-05-02,,active
+S00000427,C0000066,A00000196,Verizon,telecom,mobile,75.6,1,4,2026-08-12,,active
+S00000428,C0000066,A00000196,Hulu,abonnements,streaming_video,17.99,1,4,2024-09-21,,active
+S00000429,C0000066,A00000196,Blue Cross,sante,health_insurance,313.42,1,20,2025-09-29,,active
+S00000430,C0000066,A00000196,Xfinity,telecom,internet_fixe,65.28,1,19,2023-02-19,,active
+S00000431,C0000066,A00000196,Spotify,abonnements,streaming_music,11.99,1,13,2023-02-15,,active
+S00000432,C0000067,A00000198,State Farm,logement,home_insurance,48.72,1,14,2024-10-11,,active
+S00000433,C0000067,A00000198,Spotify,abonnements,streaming_music,11.99,1,15,2025-11-30,,active
+S00000434,C0000068,A00000200,GitHub,professionnel,software,21.0,1,24,2025-05-15,,active
+S00000435,C0000068,A00000200,Netflix,abonnements,streaming_video,13.92,1,2,2023-11-20,,active
+S00000436,C0000068,A00000200,Disney+,abonnements,streaming_video,13.99,1,16,2025-01-31,,active
+S00000437,C0000068,A00000200,Google Workspace,professionnel,software,12.0,1,9,2026-02-19,,active
+S00000438,C0000068,A00000200,ConEdison,energie,electricity,109.02,1,25,2026-03-02,,active
+S00000439,C0000068,A00000200,T-Mobile,telecom,mobile,54.46,1,9,2024-09-19,,active
+S00000440,C0000068,A00000200,National Grid,energie,gas,60.47,1,26,2023-01-17,,active
+S00000441,C0000068,A00000200,Spotify,abonnements,streaming_music,11.99,1,12,2024-04-27,,active
+S00000442,C0000068,A00000200,City Water Dept,energie,water,99.0,3,15,2026-08-03,,active
+S00000443,C0000068,A00000200,Amazon Prime,abonnements,streaming_video,14.99,1,9,2024-10-08,,active
+S00000444,C0000069,A00000203,Geico Auto,transport,auto_insurance,126.13,1,17,2023-01-18,,active
+S00000445,C0000069,A00000203,Xfinity,telecom,internet_fixe,73.59,1,14,2026-05-29,,active
+S00000446,C0000069,A00000203,Verizon,telecom,mobile,80.2,1,21,2024-01-12,,active
+S00000447,C0000069,A00000203,City Water Dept,energie,water,22.0,3,5,2023-03-07,,active
+S00000448,C0000070,A00000205,Disney+,abonnements,streaming_video,13.99,1,18,2026-07-25,,active
+S00000449,C0000070,A00000205,Xfinity,telecom,internet_fixe,86.58,1,2,2024-11-17,,active
+S00000450,C0000071,A00000207,Blue Cross,sante,health_insurance,174.05,1,6,2025-10-21,,active
+S00000451,C0000071,A00000207,T-Mobile,telecom,mobile,52.57,1,23,2023-01-10,,active
+S00000452,C0000071,A00000207,Amazon Prime,abonnements,streaming_video,14.99,1,12,2023-01-08,,active
+S00000453,C0000071,A00000207,ConEdison,energie,electricity,106.2,1,9,2024-02-05,2024-09-29,churned
+S00000454,C0000071,A00000207,Apple iCloud+,abonnements,cloud,2.99,1,14,2026-06-07,,active
+S00000455,C0000071,A00000207,Spotify,abonnements,streaming_music,11.99,1,18,2023-04-23,,active
+S00000456,C0000071,A00000207,City Water Dept,energie,water,42.7,3,14,2023-11-06,,active
+S00000457,C0000071,A00000207,National Grid,energie,gas,99.1,1,3,2025-05-26,,active
+S00000458,C0000071,A00000207,Hulu,abonnements,streaming_video,17.99,1,7,2024-08-19,,active
+S00000459,C0000072,A00000208,City Water Dept,energie,water,33.69,3,6,2024-06-14,2025-12-10,churned
+S00000460,C0000072,A00000208,ConEdison,energie,electricity,115.07,1,27,2026-07-23,,active
+S00000461,C0000072,A00000208,Spotify,abonnements,streaming_music,11.99,1,19,2023-09-10,,active
+S00000462,C0000072,A00000208,State Farm,logement,home_insurance,23.1,1,3,2023-07-13,,active
+S00000463,C0000072,A00000208,Blue Cross,sante,health_insurance,130.96,1,13,2023-07-19,,active
+S00000464,C0000072,A00000208,Amazon Prime,abonnements,streaming_video,14.99,1,21,2023-12-21,,active
+S00000465,C0000072,A00000208,T-Mobile,telecom,mobile,41.05,1,11,2026-04-17,,active
+S00000466,C0000072,A00000208,Apple iCloud+,abonnements,cloud,2.99,1,9,2022-10-27,2025-08-09,churned
+S00000467,C0000072,A00000208,Geico Auto,transport,auto_insurance,129.2,1,5,2023-05-09,,active
+S00000468,C0000073,A00000211,Verizon,telecom,mobile,96.26,1,21,2026-01-30,2026-08-02,churned
+S00000469,C0000073,A00000211,Geico Auto,transport,auto_insurance,104.22,1,14,2026-05-06,,active
+S00000470,C0000073,A00000211,AT&T,telecom,mobile,55.45,1,13,2023-12-28,,active
+S00000471,C0000073,A00000211,Disney+,abonnements,streaming_video,13.99,1,22,2024-10-17,,active
+S00000472,C0000073,A00000211,Spotify,abonnements,streaming_music,11.99,1,27,2023-09-19,,active
+S00000473,C0000073,A00000211,City Water Dept,energie,water,63.67,3,14,2023-04-14,,active
+S00000474,C0000073,A00000211,NYTimes,abonnements,news,17.23,1,28,2024-12-20,,active
+S00000475,C0000073,A00000211,T-Mobile,telecom,mobile,71.89,1,16,2026-03-20,,active
+S00000476,C0000073,A00000211,National Grid,energie,gas,32.0,1,16,2023-12-01,,active
+S00000477,C0000073,A00000211,Childcare Center,famille,garde_enfant,630.59,1,4,2025-11-25,2026-10-14,active
+S00000478,C0000074,A00000214,Amazon Prime,abonnements,streaming_video,14.99,1,12,2024-06-30,,active
+S00000479,C0000074,A00000214,AT&T,telecom,mobile,64.08,1,28,2022-11-22,,active
+S00000480,C0000074,A00000214,Disney+,abonnements,streaming_video,13.99,1,2,2023-07-08,,active
+S00000481,C0000074,A00000214,Xfinity,telecom,internet_fixe,55.69,1,4,2026-02-02,,active
+S00000482,C0000075,A00000217,Disney+,abonnements,streaming_video,13.99,1,6,2024-04-05,,active
+S00000483,C0000075,A00000217,Apple iCloud+,abonnements,cloud,2.99,1,1,2023-05-24,,active
+S00000484,C0000075,A00000217,City Water Dept,energie,water,61.06,3,1,2022-11-05,,active
+S00000485,C0000075,A00000217,State Farm,logement,home_insurance,40.55,1,12,2025-12-30,2026-08-18,churned
+S00000486,C0000075,A00000217,Xfinity,telecom,internet_fixe,53.25,1,25,2024-11-06,,active
+S00000487,C0000075,A00000217,T-Mobile,telecom,mobile,70.68,1,18,2023-07-18,,active
+S00000488,C0000075,A00000217,National Grid,energie,gas,102.31,1,4,2024-06-19,,active
+S00000489,C0000075,A00000217,ConEdison,energie,electricity,48.0,1,19,2023-07-09,,active
+S00000490,C0000075,A00000217,AT&T,telecom,mobile,42.51,1,27,2025-03-31,,active
+S00000491,C0000075,A00000217,Blue Cross,sante,health_insurance,180.28,1,18,2026-08-15,,active
+S00000492,C0000075,A00000217,Amazon Prime,abonnements,streaming_video,14.99,1,26,2025-10-21,,active
+S00000493,C0000076,A00000222,Geico Auto,transport,auto_insurance,53.83,1,11,2026-05-10,,active
+S00000494,C0000076,A00000222,AT&T,telecom,mobile,61.48,1,19,2025-11-15,,active
+S00000495,C0000076,A00000222,Netflix,abonnements,streaming_video,16.62,1,16,2025-09-03,,active
+S00000496,C0000076,A00000222,National Grid,energie,gas,95.35,1,15,2024-12-17,,active
+S00000497,C0000076,A00000222,ConEdison,energie,electricity,48.0,1,10,2025-05-10,,active
+S00000498,C0000076,A00000222,Apple iCloud+,abonnements,cloud,2.99,1,16,2024-05-26,,active
+S00000499,C0000077,A00000224,Amazon Prime,abonnements,streaming_video,14.99,1,19,2026-02-11,,active
+S00000500,C0000077,A00000224,Apple iCloud+,abonnements,cloud,2.99,1,1,2025-07-10,,active
+S00000501,C0000077,A00000224,Geico Auto,transport,auto_insurance,54.65,1,6,2023-09-11,2024-12-22,churned
+S00000502,C0000077,A00000224,Blue Cross,sante,health_insurance,166.66,1,23,2024-05-10,,active
+S00000503,C0000078,A00000226,Blue Cross,sante,health_insurance,245.09,1,25,2023-03-27,,active
+S00000504,C0000078,A00000226,Geico Auto,transport,auto_insurance,116.0,1,28,2024-11-30,2025-11-01,churned
+S00000505,C0000078,A00000226,Netflix,abonnements,streaming_video,17.81,1,24,2023-09-11,,active
+S00000506,C0000078,A00000226,ConEdison,energie,electricity,178.33,1,27,2024-07-01,,active
+S00000507,C0000078,A00000226,Xfinity,telecom,internet_fixe,58.85,1,22,2024-01-13,,active
+S00000508,C0000078,A00000226,Spotify,abonnements,streaming_music,11.99,1,12,2026-03-25,,active
+S00000509,C0000078,A00000226,Apple iCloud+,abonnements,cloud,2.99,1,5,2024-12-21,,active
+S00000510,C0000078,A00000226,Verizon,telecom,mobile,78.32,1,25,2025-07-25,,active
+S00000511,C0000078,A00000226,State Farm,logement,home_insurance,18.76,1,15,2022-11-08,2025-02-16,churned
+S00000512,C0000078,A00000226,AT&T,telecom,mobile,90.73,1,6,2024-07-24,2026-06-04,churned
+S00000513,C0000078,A00000226,National Grid,energie,gas,44.98,1,21,2024-09-09,,active
+S00000514,C0000079,A00000231,Hulu,abonnements,streaming_video,17.99,1,21,2025-07-06,,active
+S00000515,C0000079,A00000231,Xfinity,telecom,internet_fixe,65.54,1,27,2022-12-12,2023-10-24,churned
+S00000516,C0000079,A00000231,Blue Cross,sante,health_insurance,179.97,1,17,2024-08-25,,active
+S00000517,C0000079,A00000231,ConEdison,energie,electricity,151.75,1,1,2023-10-21,,active
+S00000518,C0000079,A00000231,AT&T,telecom,mobile,56.7,1,9,2024-07-05,,active
+S00000519,C0000079,A00000231,Geico Auto,transport,auto_insurance,78.51,1,15,2026-04-01,2026-09-29,churned
+S00000520,C0000080,A00000234,Xfinity,telecom,internet_fixe,84.1,1,14,2024-09-19,,active
+S00000521,C0000080,A00000234,City Water Dept,energie,water,51.22,3,6,2026-03-06,,active
+S00000522,C0000080,A00000234,T-Mobile,telecom,mobile,42.32,1,7,2025-01-22,,active
+S00000523,C0000080,A00000234,Planet Fitness,abonnements,gym,26.79,1,8,2025-04-26,2026-08-16,churned
+S00000524,C0000080,A00000234,AT&T,telecom,mobile,49.97,1,11,2026-07-17,,active
+S00000525,C0000080,A00000234,ConEdison,energie,electricity,131.13,1,3,2025-02-09,2026-02-10,churned
+S00000526,C0000081,A00000236,State Farm,logement,home_insurance,33.21,1,24,2025-03-19,,active
+S00000527,C0000081,A00000236,Verizon,telecom,mobile,81.85,1,16,2024-08-04,,active
+S00000528,C0000081,A00000236,ConEdison,energie,electricity,79.69,1,9,2023-09-13,2024-04-29,churned
+S00000529,C0000081,A00000236,Xfinity,telecom,internet_fixe,76.75,1,17,2023-08-20,,active
+S00000530,C0000081,A00000236,Geico Auto,transport,auto_insurance,103.36,1,1,2025-04-25,,active
+S00000531,C0000081,A00000236,Netflix,abonnements,streaming_video,14.67,1,17,2025-10-02,,active
+S00000532,C0000081,A00000236,AT&T,telecom,mobile,71.51,1,25,2024-12-16,,active
+S00000533,C0000081,A00000236,Apple iCloud+,abonnements,cloud,2.99,1,13,2023-05-13,,active
+S00000534,C0000081,A00000236,Blue Cross,sante,health_insurance,275.83,1,18,2026-04-02,,active
+S00000535,C0000082,A00000239,City Water Dept,energie,water,57.2,3,4,2025-09-26,,active
+S00000536,C0000082,A00000239,Apple iCloud+,abonnements,cloud,2.99,1,11,2025-04-15,,active
+S00000537,C0000082,A00000239,AT&T,telecom,mobile,46.53,1,18,2022-10-29,,active
+S00000538,C0000082,A00000243,Google Workspace,professionnel,software,12.0,1,28,2026-02-02,,active
+S00000539,C0000082,A00000239,State Farm,logement,home_insurance,18.08,1,15,2025-02-13,,active
+S00000540,C0000082,A00000239,Netflix,abonnements,streaming_video,15.42,1,25,2023-06-12,,active
+S00000541,C0000082,A00000243,Adobe,professionnel,software,59.99,1,7,2023-03-07,,active
+S00000542,C0000082,A00000239,ConEdison,energie,electricity,124.43,1,16,2024-12-05,,active
+S00000543,C0000082,A00000239,Spotify,abonnements,streaming_music,11.99,1,14,2025-06-28,,active
+S00000544,C0000082,A00000239,Verizon,telecom,mobile,76.97,1,16,2025-01-08,2026-05-17,churned
+S00000545,C0000083,A00000244,Blue Cross,sante,health_insurance,105.73,1,13,2026-04-27,,active
+S00000546,C0000083,A00000244,ConEdison,energie,electricity,63.82,1,19,2025-01-21,,active
+S00000547,C0000083,A00000244,Geico Auto,transport,auto_insurance,85.09,1,20,2025-07-28,2026-03-24,churned
+S00000548,C0000083,A00000244,Amazon Prime,abonnements,streaming_video,14.99,1,7,2024-09-05,,active
+S00000549,C0000083,A00000244,Spotify,abonnements,streaming_music,11.99,1,26,2023-12-26,,active
+S00000550,C0000083,A00000244,T-Mobile,telecom,mobile,56.29,1,28,2023-03-04,,active
+S00000551,C0000083,A00000244,Disney+,abonnements,streaming_video,13.99,1,10,2025-09-09,,active
+S00000552,C0000083,A00000244,AT&T,telecom,mobile,81.95,1,8,2024-01-13,,active
+S00000553,C0000083,A00000244,Childcare Center,famille,garde_enfant,749.46,1,10,2024-04-25,2026-10-14,active
+S00000554,C0000084,A00000248,ConEdison,energie,electricity,208.1,1,18,2025-05-12,,active
+S00000555,C0000084,A00000248,T-Mobile,telecom,mobile,65.87,1,27,2025-07-28,,active
+S00000556,C0000084,A00000248,Geico Auto,transport,auto_insurance,86.99,1,22,2024-04-23,,active
+S00000557,C0000084,A00000248,Amazon Prime,abonnements,streaming_video,14.99,1,27,2025-06-21,,active
+S00000558,C0000084,A00000248,Spotify,abonnements,streaming_music,11.99,1,2,2025-08-25,,active
+S00000559,C0000084,A00000248,Netflix,abonnements,streaming_video,14.83,1,7,2026-02-02,2026-08-20,churned
+S00000560,C0000084,A00000248,Xfinity,telecom,internet_fixe,107.92,1,26,2024-05-16,,active
+S00000561,C0000084,A00000248,Childcare Center,famille,garde_enfant,250.0,1,4,2026-05-23,2026-10-14,active
+S00000562,C0000085,A00000251,Disney+,abonnements,streaming_video,13.99,1,24,2026-08-05,2027-02-01,churned
+S00000563,C0000085,A00000251,ConEdison,energie,electricity,156.43,1,19,2024-06-29,2025-02-04,churned
+S00000564,C0000085,A00000251,National Grid,energie,gas,32.0,1,11,2026-04-06,2026-10-03,churned
+S00000565,C0000085,A00000251,Planet Fitness,abonnements,gym,28.76,1,2,2023-08-20,,active
+S00000566,C0000085,A00000251,Spotify,abonnements,streaming_music,11.99,1,1,2026-07-09,,active
+S00000567,C0000085,A00000251,NYTimes,abonnements,news,16.34,1,9,2026-03-24,,active
+S00000568,C0000085,A00000251,Xfinity,telecom,internet_fixe,68.27,1,3,2023-06-30,,active
+S00000569,C0000085,A00000251,Hulu,abonnements,streaming_video,17.99,1,4,2023-10-31,,active
+S00000570,C0000086,A00000255,ConEdison,energie,electricity,203.26,1,6,2025-12-20,,active
+S00000571,C0000086,A00000255,Verizon,telecom,mobile,71.35,1,5,2024-08-18,,active
+S00000572,C0000086,A00000255,Netflix,abonnements,streaming_video,14.5,1,6,2025-01-15,,active
+S00000573,C0000087,A00000257,State Farm,logement,home_insurance,48.7,1,3,2024-02-03,,active
+S00000574,C0000087,A00000257,ConEdison,energie,electricity,212.55,1,10,2024-05-27,,active
+S00000575,C0000087,A00000257,NYTimes,abonnements,news,18.17,1,16,2024-08-01,,active
+S00000576,C0000087,A00000257,Verizon,telecom,mobile,89.46,1,15,2025-12-27,,active
+S00000577,C0000087,A00000257,Geico Auto,transport,auto_insurance,61.01,1,13,2025-09-13,2026-08-18,churned
+S00000578,C0000087,A00000257,Xfinity,telecom,internet_fixe,88.98,1,6,2024-10-05,,active
+S00000579,C0000087,A00000257,Spotify,abonnements,streaming_music,11.99,1,12,2025-01-20,,active
+S00000580,C0000087,A00000257,Blue Cross,sante,health_insurance,180.96,1,4,2024-02-10,,active
+S00000581,C0000087,A00000257,Adobe,professionnel,software,59.99,1,5,2023-08-10,,active
+S00000582,C0000087,A00000257,T-Mobile,telecom,mobile,58.65,1,23,2023-08-05,,active
+S00000583,C0000088,A00000259,National Grid,energie,gas,85.67,1,23,2025-10-21,,active
+S00000584,C0000088,A00000259,Verizon,telecom,mobile,93.49,1,12,2026-07-28,,active
+S00000585,C0000088,A00000259,ConEdison,energie,electricity,104.95,1,9,2025-06-10,,active
+S00000586,C0000088,A00000259,Apple iCloud+,abonnements,cloud,2.99,1,14,2024-08-23,,active
+S00000587,C0000088,A00000259,State Farm,logement,home_insurance,37.48,1,27,2024-08-16,,active
+S00000588,C0000088,A00000259,Blue Cross,sante,health_insurance,266.81,1,11,2024-08-04,,active
+S00000589,C0000088,A00000259,Geico Auto,transport,auto_insurance,39.9,1,26,2022-12-11,,active
+S00000590,C0000089,A00000263,Verizon,telecom,mobile,86.45,1,25,2025-01-08,,active
+S00000591,C0000089,A00000263,ConEdison,energie,electricity,131.63,1,9,2022-12-26,,active
+S00000592,C0000089,A00000263,T-Mobile,telecom,mobile,73.26,1,20,2022-11-20,,active
+S00000593,C0000089,A00000263,Apple iCloud+,abonnements,cloud,2.99,1,18,2024-01-16,,active
+S00000594,C0000089,A00000263,National Grid,energie,gas,85.33,1,27,2023-04-23,,active
+S00000595,C0000089,A00000263,State Farm,logement,home_insurance,41.87,1,9,2023-01-14,,active
+S00000596,C0000089,A00000263,AT&T,telecom,mobile,83.85,1,15,2023-01-30,2025-08-25,churned
+S00000597,C0000089,A00000263,Blue Cross,sante,health_insurance,146.63,1,14,2025-12-20,,active
+S00000598,C0000089,A00000263,Disney+,abonnements,streaming_video,13.99,1,7,2025-06-21,2026-06-22,churned
+S00000599,C0000089,A00000263,GitHub,professionnel,software,21.0,1,28,2025-02-20,2025-09-07,churned
+S00000600,C0000089,A00000263,City Water Dept,energie,water,24.25,3,8,2025-10-11,,active
+S00000601,C0000089,A00000263,Childcare Center,famille,garde_enfant,647.4,1,3,2024-12-02,2026-10-14,active
+S00000602,C0000090,A00000266,Verizon,telecom,mobile,82.41,1,4,2024-10-27,,active
+S00000603,C0000090,A00000266,State Farm,logement,home_insurance,21.57,1,26,2023-06-11,,active
+S00000604,C0000090,A00000266,T-Mobile,telecom,mobile,58.68,1,19,2025-04-08,,active
+S00000605,C0000090,A00000266,ConEdison,energie,electricity,117.92,1,19,2025-01-13,,active
+S00000606,C0000090,A00000266,Geico Auto,transport,auto_insurance,91.53,1,2,2026-04-28,,active
+S00000607,C0000090,A00000270,Google Workspace,professionnel,software,12.0,1,27,2025-09-29,,active
+S00000608,C0000090,A00000266,Disney+,abonnements,streaming_video,13.99,1,2,2022-12-17,,active
+S00000609,C0000090,A00000266,Xfinity,telecom,internet_fixe,91.25,1,17,2024-02-12,,active
+S00000610,C0000090,A00000266,National Grid,energie,gas,83.02,1,14,2024-08-10,,active
+S00000611,C0000090,A00000266,Xbox Game Pass,abonnements,gaming,16.99,1,22,2023-09-23,,active
+S00000612,C0000090,A00000266,Amazon Prime,abonnements,streaming_video,14.99,1,19,2023-07-02,,active
+S00000613,C0000091,A00000271,Amazon Prime,abonnements,streaming_video,14.99,1,16,2023-09-15,,active
+S00000614,C0000091,A00000271,ConEdison,energie,electricity,121.71,1,25,2023-08-10,,active
+S00000615,C0000091,A00000271,Xfinity,telecom,internet_fixe,61.01,1,9,2023-09-11,,active
+S00000616,C0000091,A00000271,Blue Cross,sante,health_insurance,145.38,1,28,2023-04-17,,active
+S00000617,C0000092,A00000272,ConEdison,energie,electricity,72.54,1,14,2023-03-02,,active
+S00000618,C0000092,A00000272,Blue Cross,sante,health_insurance,274.87,1,2,2023-05-31,2025-03-28,churned
+S00000619,C0000092,A00000272,Spotify,abonnements,streaming_music,11.99,1,22,2026-07-16,,active
+S00000620,C0000093,A00000274,Amazon Prime,abonnements,streaming_video,14.99,1,12,2025-07-08,2026-04-03,churned
+S00000621,C0000093,A00000274,ConEdison,energie,electricity,116.02,1,9,2025-07-29,,active
+S00000622,C0000093,A00000274,National Grid,energie,gas,113.64,1,19,2022-12-27,,active
+S00000623,C0000093,A00000274,Xfinity,telecom,internet_fixe,63.59,1,15,2023-11-22,,active
+S00000624,C0000093,A00000274,Verizon,telecom,mobile,61.25,1,7,2024-11-09,,active
+S00000625,C0000093,A00000274,Blue Cross,sante,health_insurance,140.3,1,1,2026-02-25,2026-08-28,churned
+S00000626,C0000093,A00000274,Apple iCloud+,abonnements,cloud,2.99,1,5,2025-05-11,,active
+S00000627,C0000093,A00000274,Geico Auto,transport,auto_insurance,162.07,1,2,2025-03-13,,active
+S00000628,C0000093,A00000274,Childcare Center,famille,garde_enfant,543.39,1,4,2025-03-20,2026-10-14,active
+S00000629,C0000094,A00000276,Xfinity,telecom,internet_fixe,63.83,1,12,2022-11-14,,active
+S00000630,C0000094,A00000276,Geico Auto,transport,auto_insurance,98.3,1,17,2025-05-24,,active
+S00000631,C0000094,A00000276,State Farm,logement,home_insurance,38.45,1,15,2024-10-03,2025-05-01,churned
+S00000632,C0000094,A00000276,T-Mobile,telecom,mobile,68.31,1,3,2024-08-14,2025-07-08,churned
+S00000633,C0000094,A00000276,ConEdison,energie,electricity,120.13,1,7,2026-02-03,,active
+S00000634,C0000094,A00000276,Apple iCloud+,abonnements,cloud,2.99,1,9,2025-03-02,,active
+S00000635,C0000094,A00000276,City Water Dept,energie,water,68.81,3,14,2025-09-27,,active
+S00000636,C0000095,A00000278,Spotify,abonnements,streaming_music,11.99,1,2,2024-04-18,2025-08-31,churned
+S00000637,C0000095,A00000278,Xfinity,telecom,internet_fixe,81.81,1,9,2024-03-10,,active
+S00000638,C0000095,A00000278,Blue Cross,sante,health_insurance,156.71,1,13,2025-11-19,2026-07-14,churned
+S00000639,C0000095,A00000278,Planet Fitness,abonnements,gym,25.4,1,4,2024-05-15,,active
+S00000640,C0000095,A00000278,State Farm,logement,home_insurance,28.66,1,19,2022-11-22,,active
+S00000641,C0000095,A00000278,Netflix,abonnements,streaming_video,16.96,1,17,2022-12-21,,active
+S00000642,C0000095,A00000278,Childcare Center,famille,garde_enfant,396.16,1,9,2026-08-26,2026-10-14,active
+S00000643,C0000096,A00000280,NYTimes,abonnements,news,17.34,1,9,2026-02-14,,active
+S00000644,C0000096,A00000280,City Water Dept,energie,water,99.0,3,24,2024-03-21,2025-05-01,churned
+S00000645,C0000096,A00000280,Xfinity,telecom,internet_fixe,66.35,1,9,2025-01-25,,active
+S00000646,C0000096,A00000280,Verizon,telecom,mobile,76.47,1,8,2025-08-27,,active
+S00000647,C0000096,A00000280,Blue Cross,sante,health_insurance,188.31,1,8,2025-10-01,,active
+S00000648,C0000097,A00000282,ConEdison,energie,electricity,92.47,1,15,2025-06-18,,active
+S00000649,C0000097,A00000282,Xfinity,telecom,internet_fixe,52.32,1,2,2025-05-30,,active
+S00000650,C0000097,A00000282,Hulu,abonnements,streaming_video,17.99,1,19,2024-05-29,,active
+S00000651,C0000098,A00000283,Blue Cross,sante,health_insurance,274.56,1,8,2024-12-03,2025-09-29,churned
+S00000652,C0000098,A00000283,Netflix,abonnements,streaming_video,16.22,1,27,2025-03-15,,active
+S00000653,C0000098,A00000285,Adobe,professionnel,software,59.99,1,14,2024-02-07,2026-03-24,churned
+S00000654,C0000098,A00000283,Xbox Game Pass,abonnements,gaming,16.99,1,27,2025-01-18,,active
+S00000655,C0000098,A00000283,State Farm,logement,home_insurance,26.67,1,15,2025-12-10,,active
+S00000656,C0000098,A00000283,Amazon Prime,abonnements,streaming_video,14.99,1,10,2024-08-25,,active
+S00000657,C0000098,A00000283,City Water Dept,energie,water,80.04,3,25,2022-12-11,,active
+S00000658,C0000098,A00000283,AT&T,telecom,mobile,64.14,1,10,2024-02-24,,active
+S00000659,C0000099,A00000286,Spotify,abonnements,streaming_music,11.99,1,21,2026-04-26,,active
+S00000660,C0000099,A00000286,Netflix,abonnements,streaming_video,14.98,1,28,2026-05-17,,active
+S00000661,C0000099,A00000286,Amazon Prime,abonnements,streaming_video,14.99,1,1,2024-02-12,,active
+S00000662,C0000099,A00000286,ConEdison,energie,electricity,200.4,1,17,2025-02-26,,active
+S00000663,C0000099,A00000286,Xfinity,telecom,internet_fixe,84.31,1,4,2025-07-02,,active
+S00000664,C0000099,A00000286,AT&T,telecom,mobile,62.61,1,10,2025-10-15,,active
+S00000665,C0000099,A00000286,Geico Auto,transport,auto_insurance,104.43,1,8,2022-10-21,,active
+S00000666,C0000099,A00000286,Apple iCloud+,abonnements,cloud,2.99,1,3,2026-01-30,,active
+S00000667,C0000100,A00000290,Blue Cross,sante,health_insurance,311.3,1,20,2025-05-04,,active
+S00000668,C0000100,A00000290,Xfinity,telecom,internet_fixe,78.11,1,25,2024-07-07,,active
+S00000669,C0000100,A00000290,T-Mobile,telecom,mobile,58.82,1,13,2025-12-28,,active
+S00000670,C0000100,A00000290,Verizon,telecom,mobile,89.24,1,26,2024-12-07,,active
+S00000671,C0000100,A00000290,AT&T,telecom,mobile,72.44,1,7,2023-12-24,,active
+S00000672,C0000100,A00000290,ConEdison,energie,electricity,93.69,1,18,2023-12-08,,active
+S00000673,C0000100,A00000290,Spotify,abonnements,streaming_music,11.99,1,27,2023-03-03,,active
+S00000674,C0000100,A00000290,Amazon Prime,abonnements,streaming_video,14.99,1,4,2025-11-24,,active

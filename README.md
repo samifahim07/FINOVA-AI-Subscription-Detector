@@ -1,0 +1,1 @@
+# FINOVA-AI-Subscription-Detector
